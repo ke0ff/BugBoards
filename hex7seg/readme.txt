@@ -1,5 +1,5 @@
-Hex 7-segment display
-Produces a 7-segment BugBoard display which displays hex numbers 0x0 through 0xF
+Hex 7-segment BugBoard display
+Produces a 7-segment BugBoard display (for prototyping) which displays hex numbers 0x0 through 0xF
 Includes blaning in/out and decimal point drive.
 Instructions:
 Connect binary nybble (1 to 4 bits) to the "a" - "d" inputs ("a" = lsb). Unconnected state of all inputs = logic "0".
